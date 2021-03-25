@@ -2,7 +2,8 @@
 
 <p align="left">
   Meu nome é Wesley, curso análise e dsenvolvimento de sistemas.<br>
-  Estou estudandopara me torna um desenvolvedor <strong>Front-end</strong>. E estou em busca de um estágio na área.
+  Estou estudandopara me torna um desenvolvedor <strong>Front-end</strong>.<br> 
+  E estou em busca de um estágio na área.
 </p>
 
 <p align="left">
