@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  Meu nome é Wesley, curso análise e dsenvolvimento de sistemas. Estou estudando<br>
-  para me torna um desenvolvedor <strong>Front-end</strong>. E estou em busca de um estágio na área. <br>
+  Meu nome é Wesley, curso análise e dsenvolvimento de sistemas.<br>
+  Estou estudandopara me torna um desenvolvedor <strong>Front-end</strong>. E estou em busca de um estágio na área.
 </p>
 
 <p align="left">
