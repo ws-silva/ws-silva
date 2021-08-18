@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, Python, JavaScript</strong>
+  🦄 Skills: <strong>HTML/CSS, Python, Pandas, Web Scarping</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VsCode, jupyter, figma, GitHub</strong>
+  💼 Ferramentas: <strong>VsCode, jupyter, collab, GitHub</strong>
 </p>
 
 <p align="left">
