@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML/CSS, Python, Pandas, Web Scarping</strong>
+  🦄 Skills: <strong>HTML/CSS, Python, Pandas, Web Scraping</strong>
 </p>
 
 <p align="left">
